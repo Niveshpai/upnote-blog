@@ -6,11 +6,11 @@ thumbnail: "https://previews.123rf.com/images/lculig/lculig1608/lculig160800487/
 
 **A1 Batch** 
 
-![A1 Batch Timetable](https://www.linkpicture.com/q/A1-Timetable_2.png) 
+![A1 Batch Timetable](https://user-images.githubusercontent.com/59831140/171578482-8b09db95-2d63-489b-b714-7799f386d0ca.png) 
 
 **A2 Batch**
 
-![A2 Batch Timetable](https://www.linkpicture.com/q/a2-timetable.png)
+![A2 Batch Timetable](https://user-images.githubusercontent.com/59831140/171578611-d95111e2-3b6c-4b26-bd51-61c20d0e9c76.png)
 
 
 
